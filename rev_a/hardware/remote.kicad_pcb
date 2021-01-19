@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 58)
+    (drawings 59)
     (tracks 0)
     (zones 0)
     (modules 20)
@@ -1141,6 +1141,8 @@
     )
   )
 
+  (gr_line (start 90.266 68.1803) (end 90.266 77.978) (layer F.SilkS) (width 0.12))
+  (gr_line (start 90.266 93.6803) (end 90.266 84.328) (layer F.SilkS) (width 0.12))
   (gr_line (start 89.916 78.486) (end 89.916 67.564) (layer Edge.Cuts) (width 0.05) (tstamp 6007F5D7))
   (gr_arc (start 89.916 81.026) (end 89.916 83.566) (angle -90) (layer Edge.Cuts) (width 0.05) (tstamp 6007F5C1))
   (gr_arc (start 89.916 81.026) (end 92.456 81.026) (angle -90) (layer Edge.Cuts) (width 0.05))
@@ -1254,7 +1256,6 @@
   (gr_text heltec.org/project/wifi-lora-32 (at 126.492 89.0233) (layer F.SilkS) (tstamp 5FD67119)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_line (start 90.266 68.1803) (end 90.266 93.6803) (layer F.SilkS) (width 0.12) (tstamp 5FD5C0C1))
   (gr_line (start 90.266 68.1803) (end 142.266 68.1803) (layer F.SilkS) (width 0.12) (tstamp 5FD5C0BE))
   (gr_text <-USB (at 95.758 80.8983) (layer F.SilkS) (tstamp 5FD5F2D3)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
